@@ -1,8 +1,6 @@
-# Return Ready Lab 08
+# U2S2 Numerical Data
 
-* Part A - Foundations 3.2
-* Part B - Foundations 3.3
-* Part C - Instructor Challenge
+* Part A - Foundations 3.3
 
 ## Part A
 
